@@ -1,0 +1,3 @@
+[submodule "madcatdb/kicad-custom-libs"]
+	path = madcatdb/kicad-custom-libs
+	url = https://github.com/Croktopus/kicad-custom-libs.git
