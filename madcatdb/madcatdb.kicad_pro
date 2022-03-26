@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.2,
+          "height": 6.0,
+          "width": 6.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -349,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "madcat.kicad_pro",
+    "filename": "madcatdb.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -383,9 +383,9 @@
         "name": "Power",
         "nets": [
           "+5V",
-          "ADC_AVDD",
+          "Earth",
           "GND",
-          "VREG_VOUT"
+          "VBUS"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
