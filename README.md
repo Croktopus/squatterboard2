@@ -1,10 +1,10 @@
 # squatterboard2
 
-This is an update to the squatterboard project, meant to resolve issues I have with the original. If you're not familiar with the original, the reason I made this was to make a daughterboard with a "squatter" profile than the standard set by the unified daughterboard, since I almost never have room in my cases for a daughterboard with those dimensions.
+This is an update to the squatterboard project, meant to resolve issues I have with the original. If you're not familiar with the original, the reason I made this was to make a daughterboard with a "squatter" profile than the standard set by the Unified Daughterboard (UDB), since I almost never have room in my cases for a daughterboard with those dimensions.
 
-Electrically, it is compatible with the UDB. I honestly do not know how it compares for effectiveness because I don't have access to proper testing equipment, and I do know that the routing is not perfectly optimal (I made a couple slight compromises to fit everything a bit tighter and, I'll be honest, to keep the routing clean), but I'm confident that it is good enough.
+Electrically, it is compatible with the UDB's pinout, so it can work with any PCB compatible with the UDB. I honestly do not know how it compares for effectiveness because I don't have access to proper testing equipment, and I do know that the routing is not perfectly optimal (I made a couple slight compromises to fit everything a bit tighter and, I'll be honest, to keep the routing clean), but I'm confident that it is good enough (Cunningham's Law inc).
 
-While you are welcome to use this DB as is without any modification, I am not proposing it as an alternative standard, and I encourage you to modify it to fit your needs, because that's why it was made in the first place; as a modification of the UDB to fit my needs.
+While you are welcome to use this DB as is without any modification, I am not proposing it as an alternative standard, and I encourage you to modify it to fit your needs, because that's why it was made in the first place; as a modification of the UDB concept to fit my needs.
 
 major changes from the original squatterboard:
 
