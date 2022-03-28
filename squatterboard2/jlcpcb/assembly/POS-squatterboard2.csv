@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_1206_3216Metric,18.4,-1.6,0.0,top
+F1,500mA,Fuse_1206_3216Metric,20.3,-9.425,180.0,top
+J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,28.5,-3.65,0.0,top
+J2,Conn_01x04,JST_SH_SM04B-SRSS-TB-Handsoldering,12.0,-3.925,0.0,top
+R1,5.1k,R_0603_1608Metric,34.7,-5.6,90.0,top
+R2,5.1k,R_0603_1608Metric,34.7,-9.075,-90.0,top
+R3,1M,R_1206_3216Metric,21.9,-2.725,90.0,top
+U1,SRV05-4,SOT-23-6,18.9,-6.2,90.0,top
