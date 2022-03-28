@@ -11,8 +11,8 @@ While you are welcome to use this DB as is without any modification, I am not pr
 Major changes from the original squatterboard:
 
 * Built from scratch in KiCad 6
-* Simplified the schematic
-* Made it a bit squatter (loses physical compatibility, but I kinda just don't care about that)
+* Simplified the schematic & componentry
+* Made it a bit squatter (loses physical compatibility, but I kinda just don't care about that, as I said above you can modify it to fit your needs, including moving some stuff around to restore physical compat)
 * Reorganized libraries, added license, basically just trying to make the whole package a bit more portable so you don't get hit with errors when you download it and try to play around with it - let me know if I failed on that front, this was one of the big reasons I had for redoing this whole thing
 
 Major changes relative to the UDB
