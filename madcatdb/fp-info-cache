@@ -1,4 +1,4 @@
-20185694362765950
+20197248258770659
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -48755,6 +48755,13 @@ tact sw push 6mm
 4
 2
 Crokto
+6028-Reverse-Mount-RGB-CA
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+Crokto
 AVR-ISP-6
 Through hole straight pin header, 2x03, 2.54mm pitch, double rows
 Through hole pin header THT 2x03 2.54mm double row
@@ -48824,6 +48831,13 @@ HRO-TYPE-C-31-M-12-Assembly
 0
 16
 13
+Crokto
+HRO-TYPE-C-31-M-14
+
+
+0
+20
+17
 Crokto
 HTP-CON-M411P-F
 
@@ -48916,6 +48930,13 @@ mounting hole 3.2mm m3
 9
 0
 Crokto
+MHT151RGBCT-RGB-Reverse-Mount-1206
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+Crokto
 Mill-Max_01x04_Conn_Spring_Piston
 811-22-004-30-000101
 
@@ -48992,6 +49013,13 @@ QFN DFN_QFN
 0
 66
 57
+Crokto
+RP2040-SWD-1x5offset
+Through hole straight socket strip, 1x05, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x05 2.54mm single row
+0
+5
+5
 Crokto
 R_0603_1608Metric
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
@@ -63119,6 +63147,13 @@ DFN NoLead
 9
 7
 Package_DFN_QFN
+DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm
+DFN, 6 Pin (https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+9
+7
+Package_DFN_QFN
 DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm
 DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2018-6.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
@@ -76523,6 +76558,20 @@ ESP32-S2  ESP32  WIFI
 0
 43
 43
+RF_Module
+ESP32-S3-WROOM-1
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
+RF_Module
+ESP32-S3-WROOM-1U
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
 RF_Module
 ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf

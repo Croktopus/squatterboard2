@@ -1379,7 +1379,7 @@
     (uuid 74f5ec08-7600-4a0b-a9e4-aae29f9ea08a)
     (property "Reference" "J1" (id 0) (at 34.29 21.59 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 34.29 24.13 0))
-    (property "Footprint" "Crokto:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (id 2) (at 38.1 44.45 0)
+    (property "Footprint" "Crokto:HRO-TYPE-C-31-M-14" (id 2) (at 38.1 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 38.1 44.45 0)
@@ -1630,7 +1630,7 @@
       (reference "H3") (unit 1) (value "JLCJLCJLCJLC") (footprint "Crokto:JLCJLCJLCJLC")
     )
     (path "/74f5ec08-7600-4a0b-a9e4-aae29f9ea08a"
-      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Crokto:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Crokto:HRO-TYPE-C-31-M-14")
     )
     (path "/0471f253-a72b-4ea7-b6f0-5ec6d893951b"
       (reference "J2") (unit 1) (value "Conn_01x04") (footprint "Crokto:JST_SH_SM04B-SRSS-TB-Handsoldering")
